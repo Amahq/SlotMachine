@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2f9df7a16347b1a49a42a24b033e5639, type: 3}
+  m_Name: Roller 5
+  m_EditorClassIdentifier: 
+  Figures:
+  - {fileID: 11400000, guid: 63438e8411151ef478443423ad9c0377, type: 2}
+  - {fileID: 11400000, guid: 1892fa9aeb675624e95b5784fa1a6e60, type: 2}
+  - {fileID: 11400000, guid: ecf21850eef32874bb61c27c95ef6c88, type: 2}
+  - {fileID: 11400000, guid: 525410e705a440a46aed85e69f3ae412, type: 2}
+  - {fileID: 11400000, guid: 9708d7769aad70d4a9327bb32ca9666b, type: 2}
+  - {fileID: 11400000, guid: 9708d7769aad70d4a9327bb32ca9666b, type: 2}
+  - {fileID: 11400000, guid: 80b0317feb1b1ec4090017653f725d02, type: 2}
+  - {fileID: 11400000, guid: 13971bc1079b13342a4d971bc7833b1a, type: 2}
+  - {fileID: 11400000, guid: 9708d7769aad70d4a9327bb32ca9666b, type: 2}
+  - {fileID: 11400000, guid: 80b0317feb1b1ec4090017653f725d02, type: 2}
+  - {fileID: 11400000, guid: 63438e8411151ef478443423ad9c0377, type: 2}
+  - {fileID: 11400000, guid: ecf21850eef32874bb61c27c95ef6c88, type: 2}
+  - {fileID: 11400000, guid: 525410e705a440a46aed85e69f3ae412, type: 2}
+  - {fileID: 11400000, guid: 1892fa9aeb675624e95b5784fa1a6e60, type: 2}
+  - {fileID: 11400000, guid: 010466adfae98554b8af0d23de0a7386, type: 2}
